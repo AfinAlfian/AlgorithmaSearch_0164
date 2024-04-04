@@ -36,6 +36,9 @@ void LinearSearch()
 	char ch;
 	int ctr;
 	int item;
+
+	cout << "\nEnter the element you to search : ";
+	cin >> item;
 }
 
 int main()
